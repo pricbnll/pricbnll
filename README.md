@@ -1,6 +1,10 @@
 <h1 align="center">Oi, eu sou a Pri! 🌙</h1>
 <p align="center">
+  Programadora fullstack apaixonada por lógica e código design limpo.  
   Sou apaixonada por programação — com aquela vibe vampiresca: <strong>“telinha escura, mente atenta”</strong>.
+  <br/>
+  🌱 Atualmente aprendendo mais sobre JavaScript - aprofundando mesmoooooo 
+  🎯 Focada em evoluir um pouquinho todo dia  
 </p>
 
 ---
@@ -38,12 +42,12 @@
 
 ---
 
-##  Meus projetos principais
+### 💫 Um pouco sobre mim
 
-| Projeto                    | Tecnologias                  | O que faz                              |
-|---------------------------|-------------------------------|------------------------------------------|
-| viagem365Backend          | JavaScript, Node.js, Express | API para gestão de locais, usuários etc. |
-| viagem365Frontend         | JavaScript, React            | Interface de reserva de viagens          |
+- 💻 Fullstack dev com foco em JavaScript e React  
+- 📚 Sempre estudando: APIs REST, banco de dados, lógica e boas práticas  
+- ✨ Acredito que cada linha de código pode ser poesia funcional  
+- 🧙‍♀️ Taróloga de código nas horas vagas
 
 ---
 
