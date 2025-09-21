@@ -3,7 +3,7 @@
   Programadora fullstack apaixonada por lógica e código design limpo.  
   Sou apaixonada por programação — com aquela vibe vampiresca: <strong>“telinha escura, mente atenta”</strong>.
   <br/>
-  🌱 Atualmente aprendendo mais sobre JavaScript - aprofundando mesmoooooo 
+  🌱 Atualmente fazendo The Odin Project
   🎯 Focada em evoluir um pouquinho todo dia  
 </p>
 
