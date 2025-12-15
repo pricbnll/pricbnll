@@ -1,23 +1,23 @@
-<h1 align="center">Oi, eu sou a Pri! 🌙</h1>
+<h1 align="center">Oi, eu sou a Pri! </h1>
 <p align="center">
   Programadora fullstack apaixonada por lógica e código design limpo.  
   Sou apaixonada por programação — com aquela vibe vampiresca: <strong>“telinha escura, mente atenta”</strong>.
   <br/>
-  🌱 Atualmente fazendo The Odin Project
-  🎯 Focada em evoluir um pouquinho todo dia  
+  Atualmente fazendo The Odin Project
+  Focada em evoluir um pouquinho todo dia  
 </p>
 
 ---
 
 ##  Sobre mim
 
-- 💻 Estudante "eternamente em formação" mas já *apaixonada* por code!
-- 🚀 Explorando **JavaScript**, **Backend com Node**, APIs REST e design frontend.
-- 🧳 Projetos atuais:
+- Estudante "eternamente em formação" mas já *apaixonada* por code!
+- Explorando **JavaScript**, **Backend com Node**, APIs REST e design frontend.
+- Projetos atuais:
   - **viagem365Backend** – API REST para gerenciamento de viagens
   - **viagem365Frontend** – Interface interativa para app de viagens
 
-### 🚀 Minhas ferramentas favoritas
+### Minhas ferramentas favoritas
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -34,26 +34,29 @@
 
 ##  O que já estudei / experiência
 
-- 🧠 **JavaScript** moderno (ES6+): arrow functions, async/await, REST APIs
-- 🛠️ **Node.js** pra backend prático
-- 🎨 **HTML & CSS** — dando vida aos layouts e deixando tudo estiloso
-- 🔧 **Git & GitHub** — versionamento e deploy com tranquilidade
-- 🗃️ **PostgreSQL** — banco de dados SQL com amor e café
+- **JavaScript** moderno (ES6+): arrow functions, async/await, REST APIs
+- **Node.js** pra backend prático
+- **HTML & CSS** — dando vida aos layouts e deixando tudo estiloso
+- **Git & GitHub** — versionamento e deploy com tranquilidade
+- **PostgreSQL** — banco de dados SQL com amor e café
+- **Lovable**
+- **Product Manager** - Atualizando discovery e delivery de produtos
 
 ---
 
-### 💫 Um pouco sobre mim
+### Um pouco sobre mim
 
-- 💻 Fullstack dev com foco em JavaScript e React  
-- 📚 Sempre estudando: APIs REST, banco de dados, lógica e boas práticas  
-- ✨ Acredito que cada linha de código pode ser poesia funcional  
-- 🧙‍♀️ Taróloga de código nas horas vagas
+- Fullstack dev com foco em JavaScript e React  
+- Sempre estudando: APIs REST, banco de dados, lógica e boas práticas  
+- Acredito que cada linha de código pode ser poesia funcional
+- Product Mananger para extrair dados e encontrar soluções 
+- Taróloga de código nas horas vagas
 
 ---
 
 ##  Como se conectar
 
-- [LinkedIn](https://www.linkedin.com/in/priscilla-ilha-carbonell-864a062b) – bora conversar sobre dev, viagens ou café?
+- [LinkedIn](https://www.linkedin.com/in/priscilla-ilha-carbonell) – bora conversar sobre dev, viagens ou café?
 - GitHub Stats:  
   ![](https://github-readme-stats.vercel.app/api?username=pricbnll&show_icons=true)
 
