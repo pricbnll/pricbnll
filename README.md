@@ -3,7 +3,7 @@
   Programadora fullstack apaixonada por lógica e código design limpo.  
   Sou apaixonada por programação — com aquela vibe vampiresca: <strong>“telinha escura, mente atenta”</strong>.
   <br/>
-  Atualmente fazendo The Odin Project
+  Estacionei The Odin Project e voltei para discovery em Product Manager além de espiar o que temps em IA e me apaizonei pelo Lovable!!!!
   Focada em evoluir um pouquinho todo dia  
 </p>
 
